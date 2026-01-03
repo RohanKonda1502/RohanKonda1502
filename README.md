@@ -1,3 +1,13 @@
+<div align="center">
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=26&pause=1200&color=B4BEFE&center=true&vCenter=true&width=900&lines=Arch+Linux+%7C+Hyprland+Enjoyer;Python+%7C+JavaScript+%7C+TypeScript;Minimal+configs%2C+clean+code" />
+</p>
+
+<img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyprland-Wayland-6C7086?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-8AADF4?style=for-the-badge"/>
+</div>
+
 ![👋 Hi, my name is K.Rohan Saieswar](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=RohanKonda1502&label=Profile%20views&color=0e75b6&style=flat)
